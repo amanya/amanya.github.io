@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Albert Manyà</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f5f2ed;
+      --ink: #1a1814;
+      --muted: #8a8070;
+      --accent: #2a2420;
+    }
+
+    html, body {
+      height: 100%;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: 'EB Garamond', Georgia, serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 2rem;
+    }
+
+    main {
+      max-width: 480px;
+      width: 100%;
+      opacity: 0;
+      transform: translateY(12px);
+      animation: appear 0.8s ease forwards 0.1s;
+    }
+
+    @keyframes appear {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .name {
+      font-size: clamp(2.2rem, 6vw, 3.2rem);
+      font-weight: 500;
+      letter-spacing: -0.02em;
+      line-height: 1;
+      margin-bottom: 0.4rem;
+    }
+
+    .role {
+      font-family: 'DM Mono', monospace;
+      font-weight: 300;
+      font-size: 0.75rem;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      text-transform: uppercase;
+      margin-bottom: 2.8rem;
+    }
+
+    .divider {
+      width: 32px;
+      height: 1px;
+      background: var(--muted);
+      margin-bottom: 2.8rem;
+      opacity: 0.5;
+    }
+
+    .bio {
+      font-size: 1.1rem;
+      line-height: 1.75;
+      color: var(--ink);
+      margin-bottom: 3rem;
+      font-style: italic;
+    }
+
+    .links {
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+
+    .links a {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.78rem;
+      font-weight: 400;
+      color: var(--muted);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.7rem;
+      transition: color 0.2s ease;
+      letter-spacing: 0.03em;
+    }
+
+    .links a:hover {
+      color: var(--ink);
+    }
+
+    .links a .label {
+      width: 56px;
+      opacity: 0.5;
+      font-size: 0.68rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    .links a .value {
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1 class="name">Albert Manyà</h1>
+    <p class="role">Freelance Software Engineer &amp; DevOps</p>
+    <div class="divider"></div>
+    <p class="bio">Available for software engineering and infrastructure projects. I help teams build, ship, and run reliable systems.</p>
+    <nav class="links">
+      <a href="mailto:amanya@fastmail.com">
+        <span class="label">Email</span>
+        <span class="value">amanya@fastmail.com</span>
+      </a>
+      <a href="https://github.com/amanya" target="_blank" rel="noopener">
+        <span class="label">GitHub</span>
+        <span class="value">github.com/amanya</span>
+      </a>
+      <a href="https://www.linkedin.com/in/amanya/" target="_blank" rel="noopener">
+        <span class="label">LinkedIn</span>
+        <span class="value">linkedin.com/in/amanya</span>
+      </a>
+    </nav>
+  </main>
+</body>
+</html>
