@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Es Ven – Furgoneta Mercedes Vito Westfalia</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      background: #fff;
+      color: #111;
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+
+    header {
+      text-align: center;
+      border-bottom: 2px solid #111;
+      padding-bottom: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .es-ven {
+      font-style: italic;
+      font-size: 1.1rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      margin-bottom: 0.4rem;
+    }
+
+    h1 {
+      font-size: 2.6rem;
+      font-weight: normal;
+      line-height: 1.15;
+      margin-bottom: 0.8rem;
+    }
+
+    h1 strong {
+      font-weight: bold;
+    }
+
+    .specs-header {
+      font-family: 'Courier New', monospace;
+      font-size: 1rem;
+      font-weight: bold;
+      letter-spacing: 0.08em;
+    }
+
+    .hero {
+      width: 100%;
+      margin-bottom: 2rem;
+      cursor: zoom-in;
+    }
+
+    .hero img {
+      width: 100%;
+      display: block;
+    }
+
+    section {
+      margin-bottom: 2.5rem;
+    }
+
+    h2 {
+      font-size: 1rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      border-bottom: 1px solid #111;
+      padding-bottom: 0.4rem;
+      margin-bottom: 1rem;
+    }
+
+    .specs-placeholder {
+      font-family: 'Courier New', monospace;
+      font-size: 0.9rem;
+      line-height: 2;
+      color: #444;
+    }
+
+    .specs-placeholder li {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .specs-placeholder li::before {
+      content: "— ";
+    }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 6px;
+    }
+
+    .gallery a {
+      display: block;
+      cursor: zoom-in;
+    }
+
+    .gallery img {
+      width: 100%;
+      display: block;
+      aspect-ratio: 4/3;
+      object-fit: cover;
+    }
+
+    .gallery a.wide {
+      grid-column: span 2;
+    }
+
+    .gallery a.wide img {
+      aspect-ratio: 16/9;
+    }
+
+    .videos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1rem;
+    }
+
+    video {
+      width: 100%;
+      display: block;
+      background: #000;
+    }
+
+    footer {
+      text-align: center;
+      border-top: 2px solid #111;
+      padding-top: 1.5rem;
+      margin-top: 2.5rem;
+    }
+
+    .contact {
+      font-family: 'Courier New', monospace;
+      font-size: 1.05rem;
+      line-height: 2;
+    }
+
+    .price {
+      font-size: 1.8rem;
+      font-weight: bold;
+      margin: 1rem 0 0.5rem;
+    }
+
+    /* Lightbox */
+    #lightbox {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.92);
+      z-index: 1000;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #lightbox.open {
+      display: flex;
+    }
+
+    #lightbox img {
+      max-width: 95vw;
+      max-height: 92vh;
+      object-fit: contain;
+      display: block;
+    }
+
+    #lightbox-close {
+      position: fixed;
+      top: 1rem;
+      right: 1.2rem;
+      color: #fff;
+      font-size: 2rem;
+      line-height: 1;
+      cursor: pointer;
+      background: none;
+      border: none;
+      font-family: sans-serif;
+      opacity: 0.8;
+    }
+
+    #lightbox-close:hover {
+      opacity: 1;
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 1.8rem; }
+      .gallery { grid-template-columns: 1fr; }
+      .gallery a.wide { grid-column: span 1; }
+      .gallery a.wide img { aspect-ratio: 4/3; }
+    }
+  </style>
+</head>
+<body>
+
+  <div id="lightbox">
+    <button id="lightbox-close">&times;</button>
+    <img id="lightbox-img" src="" alt="">
+  </div>
+
+  <header>
+    <p class="es-ven">– Es Ven –</p>
+    <h1>Furgoneta <strong>Mercedes Vito</strong><br>Camperització <strong>Westfalia</strong></h1>
+    <p class="specs-header">Any 1998 &nbsp;–&nbsp; 180.000 km &nbsp;–&nbsp; 12.000 €</p>
+  </header>
+
+  <div class="hero">
+    <img src="media/foto-01.jpg" alt="Mercedes Vito Westfalia – vista lateral" data-lightbox>
+  </div>
+
+  <section>
+    <h2>Característiques tècniques</h2>
+    <ul class="specs-placeholder">
+      <li>[Afegir motor / cilindrada / combustible]</li>
+      <li>[Afegir ITV / assegurança]</li>
+      <li>[Afegir altres dades tècniques]</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Equipament i extres</h2>
+    <ul class="specs-placeholder">
+      <li>[Afegir llista d'extres i equipament camper]</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Vídeos</h2>
+    <div class="videos">
+      <video controls preload="metadata">
+        <source src="media/video-01.mp4" type="video/mp4">
+      </video>
+      <video controls preload="metadata">
+        <source src="media/video-02.mp4" type="video/mp4">
+      </video>
+    </div>
+  </section>
+
+  <section>
+    <h2>Fotos</h2>
+    <div class="gallery">
+      <a data-lightbox href="media/foto-02.jpg"><img src="media/foto-02.jpg" alt=""></a>
+      <a data-lightbox href="media/foto-03.jpg"><img src="media/foto-03.jpg" alt=""></a>
+      <a data-lightbox href="media/foto-04.jpg"><img src="media/foto-04.jpg" alt=""></a>
+      <a data-lightbox href="media/foto-05.jpg"><img src="media/foto-05.jpg" alt=""></a>
+      <a data-lightbox href="media/foto-06.jpg"><img src="media/foto-06.jpg" alt=""></a>
+      <a data-lightbox href="media/foto-07.jpg"><img src="media/foto-07.jpg" alt=""></a>
+      <a data-lightbox href="media/foto-08.jpg"><img src="media/foto-08.jpg" alt=""></a>
+      <a data-lightbox href="media/foto-09.jpg"><img src="media/foto-09.jpg" alt=""></a>
+      <a data-lightbox href="media/foto-10.jpg"><img src="media/foto-10.jpg" alt=""></a>
+      <a data-lightbox href="media/foto-11.jpg"><img src="media/foto-11.jpg" alt=""></a>
+      <a data-lightbox href="media/foto-12.jpg"><img src="media/foto-12.jpg" alt=""></a>
+      <a data-lightbox href="media/foto-13.jpg" class="wide"><img src="media/foto-13.jpg" alt=""></a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="price">12.000 €</div>
+    <div class="contact">
+      646 274 471 (Albert)<br>
+      687 963 585 (Nadala)
+    </div>
+  </footer>
+
+  <script>
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImg = document.getElementById('lightbox-img');
+
+    document.querySelectorAll('[data-lightbox]').forEach(el => {
+      el.addEventListener('click', e => {
+        e.preventDefault();
+        const src = el.tagName === 'IMG' ? el.src : el.href;
+        lightboxImg.src = src;
+        lightbox.classList.add('open');
+        document.body.style.overflow = 'hidden';
+      });
+    });
+
+    function closeLightbox() {
+      lightbox.classList.remove('open');
+      lightboxImg.src = '';
+      document.body.style.overflow = '';
+    }
+
+    document.getElementById('lightbox-close').addEventListener('click', closeLightbox);
+    lightbox.addEventListener('click', e => { if (e.target === lightbox) closeLightbox(); });
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
+  </script>
+
+</body>
+</html>
