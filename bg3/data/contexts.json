@@ -1,0 +1,1048 @@
+{
+  "corpus": {
+    "name": "english.xml",
+    "entries": 232878,
+    "importedAt": "2026-10-26T11:43:07.647156+00:00",
+    "hash": "e186fa9aebe8364100e32051ecb9f9bc147170959f2e71e2e492e3931bb614fa"
+  },
+  "contexts": {
+    "tadpole": {
+      "text": "My tadpole hungers to join with it, and I envy the power that it gives you.",
+      "sourceId": "h0130c0ccgac8cg43bag9808g86fc0f778b49",
+      "catalan": "El meu capgròs desitja unir-s'hi i envejo el poder que et dona.",
+      "count": 822
+    },
+    "mind-flayer": {
+      "text": "If I didn't know better, I'd say a mind flayer shat a worm in your brain.",
+      "sourceId": "h0af33606g05cfg43b9g922cg4d618677a9bd",
+      "catalan": "Si no sabés que no és així, diria que un devorador de ments t'ha cagat un cuc al cervell.",
+      "count": 805
+    },
+    "wizard": {
+      "text": "The wizard Lorroakan is offering a significant reward to anyone who can bring it to him.",
+      "sourceId": "h0efc7d01gff35g4918ga99bgff64bf894ddb",
+      "catalan": "El mag Lorroakan ofereix una recompensa considerable a qui li pugui portar.",
+      "count": 495
+    },
+    "spell": {
+      "text": "Use a light source like a torch or the Light spell to see in the dark.",
+      "sourceId": "h19a20f6dg4206g464fg9fe0g3dc3432f7d85",
+      "catalan": "Fes servir una font de llum, com ara una torxa o el conjur Llum, per veure-hi a les fosques.",
+      "count": 1032
+    },
+    "betray": {
+      "sourceId": "h18fb221egac6cg48e0ga8d1g071b6565c066",
+      "text": "You betrayed her - pursued your own goals.",
+      "catalan": "La vas trair: vas perseguir els teus propis objectius.",
+      "count": 145
+    },
+    "wield": {
+      "text": "Since I was old enough to hold a blade, I've dreamt of wielding a silver sword.",
+      "sourceId": "h28af92c1g717eg426dg8608gda24206e67c5",
+      "catalan": "Des que tenia edat per sostenir una fulla, he somiat a empunyar una espasa de plata.",
+      "count": 241
+    },
+    "curse": {
+      "text": "The origin of the nothic curse is one-eyed Vecna, the undead lich and master of secrets.",
+      "sourceId": "h02f07d0fg112fg4d7bg9a6ag2511fc9e00fc",
+      "catalan": "L'origen de la maledicció nòthic és Vecna, el borni, el lich no mort i mestre dels secrets.",
+      "count": 923
+    },
+    "weave": {
+      "sourceId": "h24c64beeg0c02g43bagbb02g823fcd39676d",
+      "text": "Mystra must be pleased with Gale - I can sense the Weave's threads winding about him.",
+      "catalan": "Mystra deu estar contenta amb en Gale: puc sentir com els fils de la Trama màgica s'enrosquen al seu voltant.",
+      "count": 388
+    },
+    "summon": {
+      "sourceId": "h9dd0b1e2g35e2g4eb1ga7abg59feef15e57e",
+      "text": "The Mother of all Magic would not summon you without reason.",
+      "catalan": "La Mare de Tota la Màgia no et faria venir sense motiu.",
+      "count": 259
+    },
+    "flay": {
+      "text": "I am going to flay her and hang her skin out to dry over the balcony.",
+      "sourceId": "hc00243bdg7e6fg4929gbe04g07104047cd5f",
+      "catalan": "L'escorxaré i penjaré la seva pell al balcó perquè s'assequi.",
+      "count": 27
+    },
+    "behold": {
+      "text": "Chilling to behold, and even more so to imagine the horror its victims must have endured.",
+      "sourceId": "hac96c19ag2692g4822gba23g7a554d8c51f8",
+      "catalan": "Esgarrifa de contemplar-ho, i encara més d'imaginar l'horror que devien patir les seves víctimes.",
+      "count": 57
+    },
+    "dread": {
+      "text": "Each strike fills the target with a chilling dread that prevents it from regaining hit points.",
+      "sourceId": "h00604022g0621g4517g9674g7a3d6aa3b737",
+      "catalan": "Cada cop omple l'objectiu d'un temor esfereïdor que li impedeix recuperar punts de vida.",
+      "count": 158
+    },
+    "undead": {
+      "text": "The origin of the nothic curse is one-eyed Vecna, the undead lich and master of secrets.",
+      "sourceId": "h02f07d0fg112fg4d7bg9a6ag2511fc9e00fc",
+      "catalan": "L'origen de la maledicció nòthic és Vecna, el borni, el lich no mort i mestre dels secrets.",
+      "count": 168
+    },
+    "wyrm": {
+      "text": "In between the rust and dents, the chipped paint of a wyrm in flight is barely visible.",
+      "sourceId": "h12307c0bg1ca9g4685gbda0g515498caec60",
+      "catalan": "Entre el rovell i els bonys, amb prou feines es distingeix la pintura escrostonada d'un drac en vol.",
+      "count": 114
+    },
+    "lair": {
+      "text": "Doni revealed a hatch and opened it for us - the 'Dragon's Lair' must be below.",
+      "sourceId": "h5f38a09fg1d94g47f6gb145gf788a0acec29",
+      "catalan": "En Doni ens ha ensenyat una trapa i ens l'ha oberta: el «Cau del Drac» deu ser a sota.",
+      "count": 146
+    },
+    "maw": {
+      "text": "For those of weak faith, it shall become hungry, pitiless maw, intent on swallowing you whole.",
+      "sourceId": "hd905eafagcb7ag4711gaf6dgbaa3a84aa300",
+      "catalan": "Per als de fe feble, es convertirà en una gola famolenca i implacable, decidida a empassar-se'ls sencers.",
+      "count": 27
+    },
+    "thrall": {
+      "text": "She forced me to watch as my men were processed; some for food, others as thralls.",
+      "sourceId": "h37bb5c5fge901g46a9g8e46gdb17e18e1a8a",
+      "catalan": "Em va obligar a mirar com processaven els meus homes: alguns com a menjar, d'altres com a esclaus sotmesos.",
+      "count": 104
+    },
+    "foe": {
+      "text": "I feared you would complete the ritual and we would face a new, more powerful foe.",
+      "sourceId": "h18e0d157g9394g42eeg8aeeg7378ca85ddc3",
+      "catalan": "Temia que completessis el ritual i que ens haguéssim d'enfrontar a un enemic nou i més poderós.",
+      "count": 327
+    },
+    "carrion": {
+      "text": "These gelatinous creatures usually dwell in caves and dungeons, feeding on refuse, carrion, and ill-fated adventurers.",
+      "sourceId": "h51dbad6dg07a1g45b3g954fge909e329b77c",
+      "catalan": "Aquestes criatures gelatinoses solen viure en coves i masmorres, on s'alimenten de deixalles, carronya i aventurers dissortats.",
+      "count": 133
+    },
+    "spawn": {
+      "text": "Spawn or no, I'm still Doctor Dalyria, and I will not submit to this lowly status.",
+      "sourceId": "h103e649ega8eag40e3ga256g4908459b1041",
+      "catalan": "Engendre o no, continuo sent la doctora Dalyria i no em sotmetré a aquesta condició tan baixa.",
+      "count": 441
+    },
+    "owlbear": {
+      "text": "I told Edowin not to look in that cave - it was filthy with owlbear tracks.",
+      "sourceId": "h803671d8gec0ag42e5gb588gc196aea4f814",
+      "catalan": "Vaig dir a l'Edowin que no mirés dins d'aquella cova: estava plena de petjades d'ós mussol.",
+      "count": 81
+    },
+    "shapeshifter": {
+      "text": "A map of where we found the shapeshifters, alongside Father Lorgan's name - our killer was here.",
+      "sourceId": "h4b78de2dgf335g4784gbcd9g77f1e16ab389",
+      "catalan": "Un mapa dels llocs on hem trobat els canviaformes, al costat del nom del pare Lorgan: el nostre assassí ha estat aquí.",
+      "count": 37
+    },
+    "hag": {
+      "text": "In the tales, hags always cook up their victim's misery first, then sell them false hope.",
+      "sourceId": "h1bfb7c2bg7b81g4d14g8616g1da6bee63192",
+      "catalan": "Als contes, les bruixes monstruoses sempre cuinen primer la desgràcia de les seves víctimes i després els venen falses esperances.",
+      "count": 385
+    },
+    "sever": {
+      "text": "The severed head of a clown - a splendid gift, and it's not even my birthday.",
+      "sourceId": "h3706a270ga8fag489agb768ga20445de5607",
+      "catalan": "El cap seccionat d'un pallasso: un regal esplèndid, i ni tan sols és el meu aniversari.",
+      "count": 117
+    },
+    "dungeon": {
+      "text": "These gelatinous creatures usually dwell in caves and dungeons, feeding on refuse, carrion, and ill-fated adventurers.",
+      "sourceId": "h51dbad6dg07a1g45b3g954fge909e329b77c",
+      "catalan": "Aquestes criatures gelatinoses solen viure en coves i masmorres, on s'alimenten de deixalles, carronya i aventurers dissortats.",
+      "count": 28
+    },
+    "thy": {
+      "text": "Take rest, as no quill will record thy steps tonight, nor any god rally thy duty.",
+      "sourceId": "h183cdb3bgfd06g40abg9781g79a4ca594c89",
+      "catalan": "Descansa, perquè aquesta nit cap ploma no registrarà els teus passos ni cap déu no et cridarà al deure.",
+      "count": 174
+    },
+    "flagon": {
+      "text": "I don't know about you, but I could use a flagon or three of ale.",
+      "sourceId": "hd74fe88ag5771g4942gb69fg862eb2999d6e",
+      "catalan": "No sé tu, però a mi m'aniria bé una gerra de cervesa, o tres.",
+      "count": 9
+    },
+    "vault": {
+      "text": "A rather large and heavily armed fellow has accompanied Head Banker Glitterbeard down to the vault.",
+      "sourceId": "h0c31db13g8e81g4a11g9b2cgefd73b2aea2a",
+      "catalan": "Un individu força gros i ben armat ha acompanyat el banquer en cap Glitterbeard fins a la cambra cuirassada.",
+      "count": 201
+    },
+    "slay": {
+      "text": "I thought slaying Vlaakith's hunters in the cliffs of Sword's Teeth might be the month's pinnacle.",
+      "sourceId": "h0a22caf8gb739g4f58g9256g12df290c68f9",
+      "catalan": "Em pensava que matar els caçadors de Vlaakith als penya-segats de les Dents d'Espasa seria el punt culminant del mes.",
+      "count": 377
+    },
+    "beseech": {
+      "text": "Fine, fine, I'll turn a deaf ear to the clarion calls with which my scorned stomach beseeches me.",
+      "sourceId": "h845a5b1egfa02g4e17g953ag40ff4a22fecd",
+      "catalan": "D'acord, d'acord, faré orelles sordes als clams amb què el meu estómac menyspreat em suplica.",
+      "count": 30
+    },
+    "thou": {
+      "text": "Thou hast seen with thine own eyes and felt in thine Urges: the Dead Three unite.",
+      "sourceId": "h48a32936ga705g40c3gb185gf976cabc9512",
+      "catalan": "Ho has vist amb els teus propis ulls i ho has sentit en els teus Impulsos: els Tres Morts s'uneixen.",
+      "count": 211
+    },
+    "wrath": {
+      "text": "To disrupt the Weave is to draw Mystra's wrath - if her casters can catch you.",
+      "sourceId": "h0da1e659g7269g4ac9g8701g021b1c7f2c2b",
+      "catalan": "Alterar la Trama màgica és atreure la ira de Mystra, si els seus llançadors de conjurs et poden atrapar.",
+      "count": 92
+    },
+    "deceit": {
+      "text": "You wield the unorthodox divine tools of deceit and illusion in worship of your chosen deity.",
+      "sourceId": "h6b6a3e5cgf6ceg4540g9c74gd2b16f16958a",
+      "catalan": "Fas servir les eines divines poc ortodoxes de l'engany i la il·lusió per venerar la divinitat que has triat.",
+      "count": 31
+    },
+    "eldritch": {
+      "text": "I won't lie - losing the eldritch blasts and the hexes took some getting used to.",
+      "sourceId": "hc4675a79g017ag4de3g9738g7cbe3dc1b017",
+      "catalan": "No et mentiré: em va costar acostumar-me a perdre les descàrregues sobrenaturals i els maleficis.",
+      "count": 33
+    },
+    "thwart": {
+      "text": "A pulp-style book about a fictitious group of Renegade Flaming Fist thwarting criminals in Baldur's Gate.",
+      "sourceId": "h162945bbgc748g4120ga75dg1a011117e199",
+      "catalan": "Un llibre de literatura popular sobre un grup fictici de renegats del Puny Flamejant que frustren els plans de criminals a Baldur's Gate.",
+      "count": 69
+    },
+    "vagrant": {
+      "text": "A gang of vagrants, a tribe of wandering 'Gur', took issue with a ruling I'd made.",
+      "sourceId": "he8665ed1g291fg439dg9427g7755c6f91d6a",
+      "catalan": "Una colla de rodamons, una tribu de «gur» errants, no va estar d'acord amb una sentència que jo havia dictat.",
+      "count": 12
+    },
+    "shroud": {
+      "sourceId": "h31f6605cg88a4g4829g9af8geb3eb117bec7",
+      "text": "Your skin will be grandfather's shroud, coward.",
+      "catalan": "La teva pell serà la mortalla de l'avi, covard.",
+      "count": 29
+    },
+    "warden": {
+      "text": "Pray I never get out of here, Warden - the Absolute won't stop me, or my blade.",
+      "sourceId": "h261cc389g6a3cg45f4ga11bg8c5aa7fae6bb",
+      "catalan": "Resa perquè no surti mai d'aquí, guardià: l'Absoluta no m'aturarà, ni a mi ni a la meva fulla.",
+      "count": 24
+    },
+    "ploy": {
+      "text": "Is this some ploy of Cazador's, or do I have other unfinished business in the city?",
+      "sourceId": "h01f6a762g1162g4cffg856eg60cadae374a9",
+      "catalan": "És alguna estratagema d'en Cazador o tinc altres assumptes pendents a la ciutat?",
+      "count": 13
+    },
+    "kin": {
+      "text": "Few of our kin understand that wars can be fought with science, as well as swords.",
+      "sourceId": "h5cd2b5f2g7afcg4775ga9d9gdc373a586def",
+      "catalan": "Pocs dels nostres entenen que les guerres també es poden lluitar amb ciència, a més d'espases.",
+      "count": 217
+    },
+    "wretch": {
+      "text": "You are either a fool for trusting him - or a wretch for conspiring with him.",
+      "sourceId": "hbf83bc2fg3462g499bgb52cg7319c17965f3",
+      "catalan": "O ets un ximple per confiar-hi o un miserable per conspirar amb ell.",
+      "count": 51
+    },
+    "blight": {
+      "text": "As its blight fades, you feel a lightness rush in to take its place - Mystra.",
+      "sourceId": "h10e50e05gb79ag434cgbb65gd6473b6edbfa",
+      "catalan": "Quan la seva corrupció s'esvaeix, sents que una lleugeresa s'afanya a ocupar-ne el lloc: Mystra.",
+      "count": 59
+    },
+    "talon": {
+      "text": "I've been pierced by a beholder's rays and sliced open by a neogi's talon.",
+      "sourceId": "h0949d00fg41cfg48b1gbf52gcb45c58750cd",
+      "catalan": "M'han travessat els raigs d'un monstre esfèric de molts ulls i m'ha obert en canal l'urpa d'un neogi.",
+      "count": 20
+    },
+    "warlock": {
+      "sourceId": "he5f93d90g4464g4e41gb7d2g649c6d5705e2",
+      "text": "If Wyll isn't your warlock, why stick around and give him power?",
+      "catalan": "Si en Wyll no és el teu bruixot amb pacte, per què et quedes per aquí i li dones poder?",
+      "count": 100
+    },
+    "fiend": {
+      "text": "A fiend makes for poor company - unless it's been stuffed and mounted on your wall.",
+      "sourceId": "h0b542bb4g2ebeg42c4g8407g769e4aaf4dd3",
+      "catalan": "Un ésser infernal és mala companyia, llevat que estigui dissecat i penjat a la paret.",
+      "count": 162
+    },
+    "banish": {
+      "text": "Before I was banished to the Fugue Plane, I had song-prayers coming out the proverbial ears.",
+      "sourceId": "h47a38dbeg329ag4b5ag842bg06ccfba6e50e",
+      "catalan": "Abans que em desterressin al Pla de la Fuga, les pregàries cantades em sortien, com qui diu, per les orelles.",
+      "count": 58
+    },
+    "liege": {
+      "text": "Lead us on, my unholy liege, to slaughter on a scale the world has never seen.",
+      "sourceId": "h4813be61g523ag4085g95f4g1b2c0d0baa55",
+      "catalan": "Guia'ns, senyor meu impiu, cap a una matança d'una magnitud que el món no ha vist mai.",
+      "count": 21
+    },
+    "taint": {
+      "text": "This wine - it is tainted to deaden not just the mind, but the muscles too.",
+      "sourceId": "h14630549g1b30g4563g8bedg29a05406aae8",
+      "catalan": "Aquest vi està adulterat per entorpir no només la ment, sinó també els músculs.",
+      "count": 72
+    },
+    "gore": {
+      "text": "Speaking of, I've got new stories to tell you - demented devils, demons turned to gore.",
+      "sourceId": "ha921c2e7g1342g4fbagb248gd241e50c8634",
+      "catalan": "Ara que hi penso, tinc històries noves per explicar-te: diables embogits, dimonis reduïts a sang i entranyes.",
+      "count": 66
+    },
+    "cantrip": {
+      "text": "She said, 'Mage Hand is a cantrip - he can keep casting it all night long.'",
+      "sourceId": "h49b5ebdeg9a3bg42e1g936eg1c61ab289de6",
+      "catalan": "Va dir: «Mà de Mag és un truc màgic: el pot continuar llançant tota la nit».",
+      "count": 59
+    },
+    "unholy": {
+      "text": "In that unholy sanctum, the Murder Lord will witness our blood duel and crown the victor.",
+      "sourceId": "h46e31527ge385g495ag8649g36ff598bdfc8",
+      "catalan": "En aquell santuari impiu, el Senyor de l'Assassinat presenciarà el nostre duel de sang i coronarà qui en surti vencedor.",
+      "count": 108
+    },
+    "lest": {
+      "text": "Those villains locked Boo away, lest his righteous gaze cause their tadpole to flee in terror.",
+      "sourceId": "h835c6cbeg0202g4920g9a3dge9e5c2d0bdf5",
+      "catalan": "Aquells malvats van tancar en Boo, no fos cas que la seva mirada justa fes fugir el seu capgròs de terror.",
+      "count": 69
+    },
+    "ambush": {
+      "text": "We found a note indicating that Nine-Fingers plans to ambush Minsc at the city's Counting House.",
+      "sourceId": "h4caeb173ge44eg4355g8d7dg4eca9b040dca",
+      "catalan": "Hem trobat una nota que indica que la Nou Dits planeja parar una emboscada a en Minsc a la Casa de Comptes de la ciutat.",
+      "count": 96
+    },
+    "claw": {
+      "text": "Those claws look sharp - stay clear, unless you wish to trip on your own entrails.",
+      "sourceId": "h21e98affgef56g4cc9gabd3g914068e79c2e",
+      "catalan": "Aquestes urpes semblen esmolades: no t'hi acostis, si no vols ensopegar amb les teves pròpies entranyes.",
+      "count": 187
+    },
+    "hex": {
+      "text": "My darling, Auntie has sent you a little present - a hex doll, just for Mayrina.",
+      "sourceId": "h53f00837g3fbeg481ag988dgc88ef943e6b1",
+      "catalan": "Estimada, la tieta t'ha enviat un regalet: una nina maleïda, només per a la Mayrina.",
+      "count": 42
+    },
+    "outcast": {
+      "text": "A new god, amassing the disaffected, the outcasts - those who should turn to us.",
+      "sourceId": "h299beba4g7297g4503g91eag48306ddc3bea",
+      "catalan": "Un déu nou que aplega els descontents, els marginats: aquells que s'haurien de girar cap a nosaltres.",
+      "count": 11
+    },
+    "goblet": {
+      "text": "Artlessly made from cheap materials, this goblet has likely held more grog than expensive wines.",
+      "sourceId": "h06fb201fgf899g4558g9632gd574e1cf5d16",
+      "catalan": "Feta sense traça amb materials barats, aquesta copa amb peu segurament ha contingut més grog que no pas vins cars.",
+      "count": 27
+    },
+    "shrine": {
+      "sourceId": "hddee4b6bgfbf2g4ea1ga4dcg6122ef00b0d7",
+      "text": "I'd like you to meet me at Mystra's shrine.",
+      "catalan": "M'agradaria que et trobessis amb mi al santuari de Mystra.",
+      "count": 45
+    },
+    "keep-at-bay": {
+      "text": "I'm not inclined to bother, myself, but I suppose it keeps the City Watch at bay.",
+      "sourceId": "h39aa44e4g2e73g4129g85ebg4ecc175b1d26",
+      "catalan": "Jo no tinc ganes de molestar-m'hi, però suposo que manté la Guàrdia de la Ciutat a ratlla.",
+      "count": 33
+    },
+    "forsake": {
+      "text": "A githyanki is as likely to forsake its violent nature as a gnome is to fly.",
+      "sourceId": "h2d61434fg00ddg46fbga5fdg140827f07a64",
+      "catalan": "És tan probable que un githyanki renunciï a la seva naturalesa violenta com que un gnom es posi a volar.",
+      "count": 35
+    },
+    "hew": {
+      "text": "This roughly-hewn arrow was likely crafted in the field, fletcher's tools lit by a campfire's glow.",
+      "sourceId": "h1e3e0b7aga61ag4fbeg878dg80e3e2211136",
+      "catalan": "Aquesta fletxa tallada a cops i sense gaire poliment segurament es va fabricar al camp, amb les eines del fletxer il·luminades per una foguera.",
+      "count": 19
+    },
+    "oath": {
+      "text": "I took an oath to destroy monsters like you - and follow that oath I shall.",
+      "sourceId": "h0d4a23a9gf0a7g4eb2ga920gd51591c20a57",
+      "catalan": "Vaig jurar destruir monstres com tu, i aquest jurament el compliré.",
+      "count": 187
+    },
+    "thee": {
+      "text": "Now I have a question for thee: what is the worth of a single mortal's life?",
+      "sourceId": "h13b86794ge13ag4625ga61ega545db3eb601",
+      "catalan": "Ara tinc una pregunta per a tu: quin valor té una sola vida mortal?",
+      "count": 94
+    },
+    "spite": {
+      "text": "A shame we could not banish it - it would have felt good to spite her.",
+      "sourceId": "h5e513325g8f81g42b5g97e6gfa2698625b48",
+      "catalan": "Llàstima que no l'hàgim pogut desterrar: hauria estat agradable fer-li la guitza a ella.",
+      "count": 65
+    },
+    "gloom": {
+      "sourceId": "h49d8ec28gefc9g4e70gb870gb167566472c8",
+      "text": "Then again, you'd have to be mad to spend your days marching through this gloom.",
+      "catalan": "Ben mirat, caldria estar boig per passar-se els dies marxant per aquesta penombra.",
+      "count": 20
+    },
+    "cleave": {
+      "sourceId": "h626d60c0g1835g4bdag92e0g5a354e99db01",
+      "text": "Our swords are ready to cleave ghaik flesh in their legions.",
+      "catalan": "Les nostres espases estan a punt per esquinçar la carn de les legions de ghaik.",
+      "count": 47
+    },
+    "heirloom": {
+      "text": "Magic got caught in this heirloom by being exposed to too many wizard family dinners.",
+      "sourceId": "h60e43263g36a8g4b0egb7deg1792427ed2d7",
+      "catalan": "La màgia va quedar atrapada en aquest objecte heretat per haver estat exposat a massa sopars familiars de mags.",
+      "count": 21
+    },
+    "shackle": {
+      "text": "Free from your shackles; free from the pets you sicced on me for a hundred years.",
+      "sourceId": "h2597c0dcg5f07g43f6ga99bg38a14d241a33",
+      "catalan": "Lliure dels teus grillons; lliure de les bèsties que em vas estar atiant durant cent anys.",
+      "count": 38
+    },
+    "fang": {
+      "text": "This fang stinks of rotting flesh and death - the remnants of this worg's many hunts.",
+      "sourceId": "h2235d983g4ee5g4e2dga58cgfc6b7f8312a3",
+      "catalan": "Aquest ullal fa pudor de carn podrida i de mort: les restes de les moltes caceres d'aquest worg.",
+      "count": 111
+    },
+    "dowry": {
+      "text": "I thought dowries, alliances and old blueblood feuds might have to be balanced against your desires.",
+      "sourceId": "hdda559f0g3d98g4264g9398g995513f433ed",
+      "catalan": "Em pensava que potser caldria sospesar els dots, les aliances i les velles enemistats de sang blava enfront dels teus desitjos.",
+      "count": 14
+    },
+    "oathbreaker": {
+      "text": "The Blind God rules over law and justice, encouraging valiant acts from his followers and relentlessly pursuing oathbreakers.",
+      "sourceId": "h25d302cbgb96bg4e7dgb9b7geffcbdff6875",
+      "catalan": "El Déu Cec regeix la llei i la justícia, encoratja els actes valerosos dels seus fidels i persegueix sense descans els qui trenquen els seus juraments.",
+      "count": 11
+    },
+    "fealty": {
+      "text": "The rest of you swear fealty to the Zhent, and we leave you to your business.",
+      "sourceId": "hb6320dc7g0c3fg4154g9a88gf57ab81f563e",
+      "catalan": "La resta jureu fidelitat als Zhent i us deixarem ocupar-vos dels vostres afers.",
+      "count": 25
+    },
+    "bid": {
+      "sourceId": "h96129109g4ab4g4ca4gae60g58c2da9eec55",
+      "text": "The Absolute bids you step forward, True Soul.",
+      "catalan": "L'Absoluta et mana que facis un pas endavant, Ànima Autèntica.",
+      "count": 98
+    },
+    "gauntlet": {
+      "sourceId": "h6cd2c2fbg4b59g4fffg92acg2dee91e910f0",
+      "text": "In all the excitement, I hope you didn't forget our bargain. Do you have the Gauntlets?",
+      "catalan": "Amb tanta emoció, espero que no t'hagis oblidat del nostre tracte. Tens els guantellets?",
+      "count": 63
+    },
+    "heed": {
+      "text": "If you ever heed a single word from me, heed this: Go forth and breed widely.",
+      "sourceId": "hc090bd76g7775g4201gb776g4ad11f58b282",
+      "catalan": "Si mai fas cas d'una sola paraula meva, fes cas d'aquesta: ves i reprodueix-te tant com puguis.",
+      "count": 67
+    },
+    "loot": {
+      "text": "The other refugees clean broke the cart while looting it - damned thing is useless now.",
+      "sourceId": "habd96f77geabag4baeg9d6bg7bdf72e69598",
+      "catalan": "Els altres refugiats van trencar del tot el carro mentre el saquejaven: ara el maleït trasto no serveix per a res.",
+      "count": 80
+    },
+    "wretched": {
+      "text": "You stole my chance at vengeance - my chance to become more than some wretched spawn.",
+      "sourceId": "h392fab5eg1577g462bgbc54g52e46096e0f0",
+      "catalan": "Em vas robar l'oportunitat de venjar-me: l'oportunitat d'esdevenir alguna cosa més que un engendre miserable.",
+      "count": 113
+    },
+    "lay-waste": {
+      "text": "You are the knife that twists, the blood that bleeds, That Which Shall Lay Waste.",
+      "sourceId": "h330b692cg12a8g4023gb6acg6f32705efe8e",
+      "catalan": "Ets el ganivet que es retorça, la sang que sagna, Allò que Arrasarà.",
+      "count": 7
+    },
+    "reckoning": {
+      "sourceId": "h082bafe7gd125g47a3gaeafg740e3a3aad64",
+      "text": "He might wait days or years, but he will come for you. Your reckoning is inevitable.",
+      "catalan": "Potser esperarà dies o anys, però vindrà a buscar-te. La teva passada de comptes és inevitable.",
+      "count": 28
+    },
+    "craven": {
+      "text": "I did not expect such craven behaviour from one who faced Orin and lived.",
+      "sourceId": "h315a24d4g7ef9g4ce3gb997g7dcd85455f43",
+      "catalan": "No esperava una conducta tan covarda d'algú que s'havia enfrontat a l'Orin i havia sobreviscut.",
+      "count": 25
+    },
+    "loathsome": {
+      "text": "The good things are usually either behind glass, or buried under a stack of loathsome picture papers.",
+      "sourceId": "hd3c2c85aga7bbg4e43g81ddg6492821b9914",
+      "catalan": "Les coses bones solen ser darrere d'un vidre o enterrades sota una pila de publicacions il·lustrades repugnants.",
+      "count": 16
+    },
+    "chainmail": {
+      "text": "Scored with slime and blood, it seems this chain mail shirt couldn't save its previous owner.",
+      "sourceId": "hc3f994f2g91a0g4971g9eb8gd4c6152d0d90",
+      "catalan": "Marcada pel llim i la sang, sembla que aquesta cota de malla no va poder salvar el seu antic propietari.",
+      "count": 5
+    },
+    "ghoul": {
+      "sourceId": "h778b2737g9877g44c4g8155g284133c22c18",
+      "text": "Driven by their insatiable hunger for humanoid flesh, ghouls usually roam the night in packs.",
+      "catalan": "Empesos per una fam insaciable de carn humanoide, els carronyaires no morts solen rondar de nit en grups.",
+      "count": 38
+    },
+    "bramble": {
+      "text": "You led us through briar and bramble, you affirmed my faith when it faltered.",
+      "sourceId": "h572a44f6gfbf2g4e47g92deg5ecaef18eb3d",
+      "catalan": "Ens vas guiar entre arços i esbarzers; vas refermar la meva fe quan defallia.",
+      "count": 7
+    },
+    "grievance": {
+      "text": "Where we might have once found a friend, we found only his bones, animated by an old grievance.",
+      "sourceId": "h08bd595eg6c41g4581gae7dgba7db3aae2cf",
+      "catalan": "Allà on abans potser hauríem trobat un amic, només hi vam trobar els seus ossos, animats per un vell greuge.",
+      "count": 5
+    },
+    "spoils": {
+      "text": "I'm sure the higher-ups'll make sure you get the best of the spoils, your excelness.",
+      "sourceId": "h6895d3ceg7748g4b26g9d30g110738703c41",
+      "catalan": "Segur que els de dalt s'asseguraran que us emporteu la millor part del botí, excel·lentíssim.",
+      "count": 38
+    },
+    "feud": {
+      "text": "I thought dowries, alliances and old blueblood feuds might have to be balanced against your desires.",
+      "sourceId": "hdda559f0g3d98g4264g9398g995513f433ed",
+      "catalan": "Em pensava que potser caldria sospesar els dots, les aliances i les velles enemistats de sang blava enfront dels teus desitjos.",
+      "count": 8
+    },
+    "scry": {
+      "text": "The scrying eyes have borne witness to your actions - and they reveal no violations.",
+      "sourceId": "h4ff591e9g6f14g4bb9ga972g7fe61b04c42c",
+      "catalan": "Els ulls de visió màgica han presenciat els teus actes i no hi detecten cap infracció.",
+      "count": 29
+    },
+    "ordeal": {
+      "text": "But in either case, it seems I was insensible for much of my ordeal.",
+      "sourceId": "h64b8c251g9629g4887g81d9g1f2fdc6024bf",
+      "catalan": "Però, en qualsevol dels dos casos, sembla que vaig estar inconscient durant bona part del meu calvari.",
+      "count": 9
+    },
+    "treachery": {
+      "text": "My duty is to Baldur's Gate - and it holds no place for Ravengard's treacherous spawn.",
+      "sourceId": "h2f8eb859g3228g44c4gabecg1da199cc6ef1",
+      "catalan": "El meu deure és amb Baldur's Gate, i no hi ha lloc per a l'engendre traïdor d'en Ravengard.",
+      "count": 71
+    },
+    "hearth": {
+      "text": "That may well be, but we can't just invite danger in to our hearth like that.",
+      "sourceId": "hde98dfb1ge2dcg4535g8a30gc75fe3e91de1",
+      "catalan": "Potser sí, però no podem pas convidar el perill a entrar a la nostra llar així com així.",
+      "count": 29
+    },
+    "knave": {
+      "text": "And do not worry - Chef Roveer's eyes will be kept most peeled for murderous knaves.",
+      "sourceId": "h3ab5f5beg3395g4978gaac4g6ef150b7ebda",
+      "catalan": "I no pateixis: el xef Roveer tindrà els ulls ben oberts per detectar bergants assassins.",
+      "count": 5
+    },
+    "swarm": {
+      "sourceId": "h26ed1a09g9360g4ed3g91e8g0e26b3e422ef",
+      "text": "Strike a foe, conjuring an illusory swarm of moon-pale butterflies, granting Advantage on attacks against the target.",
+      "catalan": "Colpeja un enemic i invoca un eixam il·lusori de papallones pàl·lides com la lluna, que atorga avantatge als atacs contra l'objectiu.",
+      "count": 84
+    },
+    "boon": {
+      "text": "As a cleric, you may sacrifice wealth to your deity and expect to receive a boon.",
+      "sourceId": "h09bacce1g6bd1g434aga91fg5fa699591879",
+      "catalan": "Com a clergue, pots sacrificar riqueses a la teva divinitat i esperar rebre un do a canvi.",
+      "count": 39
+    },
+    "plunder": {
+      "text": "A mirror - one used by the Sharrans to plunder memories from the minds of others.",
+      "sourceId": "h79b70a22gcccdg4737g8653g300bd49d2987",
+      "catalan": "Un mirall: un dels que fan servir els fidels de Shar per saquejar records de les ments dels altres.",
+      "count": 21
+    },
+    "henceforth": {
+      "text": "But this time I will get it, and things will be different in the Hells henceforth.",
+      "sourceId": "h5b9e0bcdgd2aag4fedg9e24g4b29579ea947",
+      "catalan": "Però aquesta vegada ho aconseguiré, i d'ara endavant les coses seran diferents als Inferns.",
+      "count": 6
+    },
+    "hath": {
+      "text": "The poor, brave soul who hath defied the Lord of Murder - the madman in king's clothing.",
+      "sourceId": "h18f55929g2c4eg4cf1gbd3fg00f0e24ef947",
+      "catalan": "La pobra i valenta ànima que ha desafiat el Senyor de l'Assassinat: el boig vestit de rei.",
+      "count": 24
+    },
+    "scoundrel": {
+      "text": "Wyll knows you for what you are: a charismatic scoundrel and an asset in battle.",
+      "sourceId": "h2d091156g9b2fg4d32g815dge55ed2dbc01c",
+      "catalan": "En Wyll sap què ets: un brètol carismàtic i un bon recurs en combat.",
+      "count": 19
+    },
+    "woe": {
+      "text": "Whenever you Long Rest, you consult the stars for a Cosmic Omen of Weal or of Woe.",
+      "sourceId": "h7de73fa3gad9cg4101gae24g36408bddc8fa",
+      "catalan": "Cada vegada que fas un descans llarg, consultes els estels per obtenir un presagi còsmic de benaurança o de dissort.",
+      "count": 31
+    },
+    "onslaught": {
+      "text": "Which of our brothers and sisters will survive the onslaught, do you think?",
+      "sourceId": "h531a4b0egfc0cg448fg9adeg4237c088ed52",
+      "catalan": "Quins dels nostres germans i germanes creus que sobreviuran a l'escomesa?",
+      "count": 17
+    },
+    "sheath": {
+      "text": "It was encompassing, sheathing me as if I were a sword and it my scabbard.",
+      "sourceId": "h58eaf151g29e8g4ff8g885eg23dd19ca42de",
+      "catalan": "M'envoltava i em recobria com si jo fos una espasa i allò fos la meva beina.",
+      "count": 16
+    },
+    "urchin": {
+      "text": "A red-haired man gifts the readily smiling urchin in front of him a red apple.",
+      "sourceId": "h0ed400bdgaa3cg47dag8269g057ea92c4396",
+      "catalan": "Un home pèl-roig regala una poma vermella al marrec del carrer que té al davant i que somriu amb facilitat.",
+      "count": 7
+    },
+    "loathe": {
+      "sourceId": "h7116da9cg12fag40a8g9a10g9988bdc47e69",
+      "text": "I loathe cowards. Come - death is too good for the likes of you.",
+      "catalan": "Detesto els covards. Vinga: la mort és massa bona per als de la teva mena.",
+      "count": 14
+    },
+    "skirmish": {
+      "text": "When you're recovered from our little skirmish, join me up there, my friend.",
+      "sourceId": "h52f0fa5fg2c41g4016g92efg1b202a0ad862",
+      "catalan": "Quan t'hagis refet de la nostra petita escaramussa, vine amb mi allà dalt, amic meu.",
+      "count": 6
+    },
+    "thrust": {
+      "sourceId": "hc43c8e33g9c64g4e03ga128g0f56b3928bcc",
+      "text": "Thrust, then parry. Or was it parry, then thrust?",
+      "catalan": "Clava una estocada i després para el cop. O era parar el cop i després clavar l'estocada?",
+      "count": 27
+    },
+    "rend": {
+      "text": "The cub's beak snaps in the air, eager to rend, yearning for blood and soft belly-flesh.",
+      "sourceId": "ha1fd27c7g23e9g4968gb2c9g5cc89a19df49",
+      "catalan": "El bec de la cria espetega a l'aire, delerós d'esquinçar, assedegat de sang i de carn tendra de ventre.",
+      "count": 20
+    },
+    "entrails": {
+      "text": "Those claws look sharp - stay clear, unless you wish to trip on your own entrails.",
+      "sourceId": "h21e98affgef56g4cc9gabd3g914068e79c2e",
+      "catalan": "Aquestes urpes semblen esmolades: no t'hi acostis, si no vols ensopegar amb les teves pròpies entranyes.",
+      "count": 12
+    },
+    "befall": {
+      "text": "I know not what sorry fate befell him, but he surely brought it on himself.",
+      "sourceId": "h20b7a2f4gb98bg41a7g92efgafcfa36f1b5d",
+      "catalan": "No sé quina trista sort li va tocar, però de ben segur que se la va buscar.",
+      "count": 16
+    },
+    "ward": {
+      "text": "The residual magic of your spells forms a ward around you that protects you from harm.",
+      "sourceId": "h3a22085bgca77g4893gb0d0g84b273132335",
+      "catalan": "La màgia residual dels teus conjurs forma una protecció màgica al teu voltant que et protegeix de prendre mal.",
+      "count": 76
+    },
+    "whereabouts": {
+      "text": "His whereabouts are currently unknown - but he must still be in the city.",
+      "sourceId": "h12519b66g6439g48fbg9f9fg19501b4f63f5",
+      "catalan": "Ara mateix se'n desconeix el parador, però encara deu ser a la ciutat.",
+      "count": 14
+    },
+    "naught": {
+      "text": "And I, your only tutor, feel naught but humiliation for letting your education fall so short.",
+      "sourceId": "h9220ebb0g61a2g4be5gb7c7g14de2428115b",
+      "catalan": "I jo, el teu únic mestre, no sento res més que humiliació per haver deixat que la teva educació es quedés tan curta.",
+      "count": 48
+    },
+    "scourge": {
+      "text": "More club than scourge, this weapon has a serrated edge made for drawing long, shallow cuts.",
+      "sourceId": "h61ad2bf3g74efg478egb74dg722ef8f1ef52",
+      "catalan": "Més garrot que no pas flagell, aquesta arma té una vora dentada feta per obrir talls llargs i poc profunds.",
+      "count": 32
+    },
+    "beholder": {
+      "text": "The beholder began to float toward him, and the boy turned and sprinted along the river.",
+      "sourceId": "h5337f968g436fg49a6g9dc7g8dae4554c592",
+      "catalan": "El monstre esfèric de molts ulls va començar a surar cap a ell, i el noi es va girar i va arrencar a córrer al llarg del riu.",
+      "count": 23
+    },
+    "enthrall": {
+      "text": "The last thing we need is someone of your potential becoming enthralled with Shar's magic, Gale.",
+      "sourceId": "hd5b998c1g540bg4650gbe5eg063021cec29c",
+      "catalan": "L'últim que ens cal és que algú amb el teu potencial quedi captivat per la màgia de Shar, Gale.",
+      "count": 22
+    },
+    "smite": {
+      "text": "Being swayed by evil does not count, so long as you are swift with the smiting afterwards.",
+      "sourceId": "ha8ecef83gee10g4b61gbb33gc052275d2a24",
+      "catalan": "Deixar-se seduir pel mal no compta, sempre que després t'afanyis a repartir cops justiciers.",
+      "count": 41
+    },
+    "sorcerer": {
+      "sourceId": "hf58ee5edgd733g4a57gb3c5gda9e2b81f6e5",
+      "text": "I'm a sorcerer, so kindly lower your weapons - or who knows what my magic might do.",
+      "catalan": "Soc un fetiller, així que abaixeu les armes, si us plau, o qui sap què podria fer la meva màgia.",
+      "count": 34
+    },
+    "ruse": {
+      "text": "Our ruse will buy only a short reprieve - we ought to tell Dame Aylin.",
+      "sourceId": "hca2c80d2gc47cg47dag9074gd9609d82c50a",
+      "catalan": "La nostra estratagema només ens donarà un breu respir: hauríem d'avisar la dama Aylin.",
+      "count": 14
+    },
+    "flail": {
+      "text": "Strike a creature with the Flail of Dread Skulls to inflict as much pain as possible.",
+      "sourceId": "h97b52a01g4779g42d4gb8d6gcd426bfd11de",
+      "catalan": "Colpeja una criatura amb el Flagell dels Cranis del Terror per infligir-li tant de dolor com sigui possible.",
+      "count": 24
+    },
+    "glaive": {
+      "text": "If I'm right - and I usually am - it's the glaive from the druid's notebook.",
+      "sourceId": "h789b2f21g1eb1g4bb2gb8a4g18d9fd396361",
+      "catalan": "Si no m'equivoco —i no acostumo a equivocar-me—, és l'arma d'asta de fulla tallant del quadern del druida.",
+      "count": 17
+    },
+    "greaves": {
+      "text": "The metal of these greaves is comfortably warm against your shins, as though heated by your mere presence.",
+      "sourceId": "h18ccc4a3gebffg4d33g9111ge7cd2b265bff",
+      "catalan": "El metall d'aquestes gamberes té una escalfor agradable contra les canyelles, com si l'escalfés la teva simple presència.",
+      "count": 2
+    },
+    "quarterstaff": {
+      "sourceId": "h78c9ea30g9777g422cga2bfg18560d12a4e0",
+      "text": "Good. This quarterstaff is now free for that taking.",
+      "catalan": "Bé. Ara aquest bastó de combat es pot agafar lliurement.",
+      "count": 9
+    },
+    "burrow": {
+      "sourceId": "h70602865g4ac9g4d87g9d72ga1ca4f5201da",
+      "text": "Hells, I can feel the worm squirming - like it wants to burrow through my skull.",
+      "catalan": "Pels inferns, noto com es retorça el cuc, com si volgués excavar-me el crani.",
+      "count": 42
+    },
+    "werewolf": {
+      "text": "A dead werewolf - and apparently, one who died by drinking a powerful acid potion.",
+      "sourceId": "h856ba124g80b4g4d89g90aeg594e7c2d6519",
+      "catalan": "Un home llop mort i, pel que sembla, mort per haver begut una poció d'àcid potent.",
+      "count": 10
+    },
+    "beguile": {
+      "sourceId": "h56792365gb690g4610g99fbge4d9bd09dac5",
+      "text": "Your magic influences, beguiles, and bends the will and conviction of those around you.",
+      "catalan": "La teva màgia influeix en els qui t'envolten, els entabana i doblega la seva voluntat i les seves conviccions.",
+      "count": 13
+    },
+    "portcullis": {
+      "text": "For a split second you see a swirl of untamed magic - then his defences drop like a portcullis.",
+      "sourceId": "h1c6eb989g34b7g412fg8047g50558f2cdeaa",
+      "catalan": "Durant una fracció de segon veus un remolí de màgia indòmita; després les seves defenses cauen com una reixa llevadissa.",
+      "count": 2
+    },
+    "tithe": {
+      "text": "I come here, for I wish to bring you a powerful tithe.",
+      "sourceId": "h1caa94b6gd501g4a10g93f3geffca2e42fb3",
+      "catalan": "Vinc aquí perquè us vull oferir un delme poderós.",
+      "count": 6
+    },
+    "wraith": {
+      "text": "A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life.",
+      "sourceId": "h29b41f35gb495g4c2cg8baag12b868936a50",
+      "catalan": "Un espectre és la malvolença encarnada, concentrada en una forma incorpòria que cerca extingir tota vida.",
+      "count": 14
+    },
+    "gallows": {
+      "text": "If that's true, bet they have the folk that did it in these gallows soon enough.",
+      "sourceId": "ha8464ee8g3a12g4779gb36egdbbe5512aa13",
+      "catalan": "Si això és cert, segur que ben aviat tindran a la forca els qui ho van fer.",
+      "count": 20
+    },
+    "plight": {
+      "text": "Time and again, Wyll's plight reinforces my decision not to pursue the path of a warlock.",
+      "sourceId": "hc954f7d5gf164g4c81gbfefg37db9e0784a8",
+      "catalan": "Una vegada i una altra, el tràngol d'en Wyll referma la meva decisió de no seguir el camí d'un bruixot amb pacte.",
+      "count": 14
+    },
+    "woeful": {
+      "sourceId": "h209ce01eg4669g403eg9c52g438246b98283",
+      "text": "It belongs to Dribbles or someone with equally woeful taste.",
+      "catalan": "Pertany a en Dribbles o a algú amb un gust igualment lamentable.",
+      "count": 7
+    },
+    "wench": {
+      "text": "That gap-handed wench and her Guild held their monopoly for far too long.",
+      "sourceId": "h20e60a88g539cg4c62g9a96g47e62d1f6c1d",
+      "catalan": "Aquella mossa maldestra i el seu Gremi han mantingut el monopoli durant massa temps.",
+      "count": 2
+    },
+    "swindle": {
+      "text": "This little swindle is meant for soft hearts, not keen eyes.",
+      "sourceId": "heb42bb83g9091g4442ga403g0e58d2e1356c",
+      "catalan": "Aquesta petita estafa està pensada per a cors tendres, no per a ulls perspicaços.",
+      "count": 4
+    },
+    "hide": {
+      "text": "A layer of soot coats this tome's thick hide binding.",
+      "sourceId": "h227bb715g9411g430bga495g2026d39b9b0c",
+      "catalan": "Una capa de sutge cobreix l'enquadernació de pell gruixuda d'aquest volum.",
+      "count": 3
+    },
+    "crag": {
+      "text": "Through the telescope, a sinister vista sprawls before you - boiling rivers and sheer crags.",
+      "sourceId": "h3499ebc8g0cc6g4072g89f0g3aa5721c0a9a",
+      "catalan": "Pel telescopi, s'estén davant teu un paisatge sinistre: rius bullents i penyals escarpats.",
+      "count": 5
+    },
+    "heathen": {
+      "text": "Now he's off in the City of Judgement, probably wasting away unclaimed, the old heathen.",
+      "sourceId": "h3e15245eg4728g4d4fgb500gfca0aff473f6",
+      "catalan": "Ara és a la Ciutat del Judici, segurament consumint-se sense que ningú el reclami, el vell pagà.",
+      "count": 4
+    },
+    "bid-farewell": {
+      "text": "We can't face the morrow if we don't bid farewell to the now.",
+      "sourceId": "h67f27c46g0895g4a50ga803gd588c904ec35",
+      "catalan": "No podem afrontar el demà si no ens acomiadem del present.",
+      "count": 5
+    },
+    "guile": {
+      "text": "They say that home is where a person can be their truest selves, without guile, without pretence.",
+      "sourceId": "h5a97430dgca72g4ad8gb3e7g5a7f8873e9e7",
+      "catalan": "Diuen que la llar és on cadascú pot mostrar-se tal com és, sense astúcies ni fingiments.",
+      "count": 7
+    },
+    "chasm": {
+      "text": "Shoving foes into chasms may kill them instantly - but could cost you precious loot.",
+      "sourceId": "hcefe3edegb575g4ff9gb196ga3ca327adb1c",
+      "catalan": "Empènyer enemics dins d'avencs pot matar-los a l'instant, però et podria costar un botí valuós.",
+      "count": 14
+    },
+    "bog": {
+      "sourceId": "haf0a4a00geb22g41dcgb353g434ad8c7c26f",
+      "text": "Nothing like being dropped in a stinking bog in the blink of an eye...",
+      "catalan": "No hi ha res com acabar en un aiguamoll pudent en un obrir i tancar d'ulls...",
+      "count": 9
+    },
+    "wile": {
+      "text": "Did Minsc bravely fend off the seductive wiles of a succubus in the cloisters of Candlekeep?",
+      "sourceId": "h64457de2g2545g471cgb16fg28e0747f74f9",
+      "catalan": "En Minsc va resistir amb valentia els ardits seductors d'un súcube als claustres de Candlekeep?",
+      "count": 11
+    },
+    "thicket": {
+      "text": "You've let my study turn into a thicket, is this what I am hearing?",
+      "sourceId": "h91865eb4g8a52g4973g9e1dg63233ff2fafe",
+      "catalan": "Has deixat que el meu estudi es converteixi en un matollar; és això el que estic sentint?",
+      "count": 4
+    },
+    "stave-off": {
+      "text": "The magic you consumed has staved off the dark hunger within you - for now.",
+      "sourceId": "h3dda3543g555bg4fdfgb09dg581f7c95a2f2",
+      "catalan": "La màgia que has consumit ha mantingut a ratlla la fam fosca que portes dins, de moment.",
+      "count": 4
+    },
+    "forlorn": {
+      "text": "And what is he, then, wandering these forlorn barrens over seven hundred miles from home?",
+      "sourceId": "h3a3a3e5bg909cg4856g90cegf2904f1e5f39",
+      "catalan": "I què hi fa, doncs, vagant per aquests erms desolats a més de set-centes milles de casa?",
+      "count": 8
+    },
+    "hilt": {
+      "text": "The phases of the moon are carved into the hilt of this scimitar, betraying a druid's careful hand.",
+      "sourceId": "h3b171b73g7a1eg47b9gbe4dgd9b78db3f3a5",
+      "catalan": "Les fases de la lluna estan tallades a l'empunyadura d'aquesta simitarra i revelen la mà acurada d'un druida.",
+      "count": 9
+    },
+    "tusk": {
+      "text": "I feel the weight of these horns on my head, curling upwards like a mammoth's tusks.",
+      "sourceId": "h447a9e65gd8b5g46c7gbd96gb33755f1e640",
+      "catalan": "Noto el pes d'aquestes banyes al cap, que es corben cap amunt com les defenses d'un mamut.",
+      "count": 14
+    },
+    "hovel": {
+      "text": "What hovel were you living in, that you didn't see this coming back in the grove?",
+      "sourceId": "h8f66ff71gf4b1g4beegb824g072dc6561a07",
+      "catalan": "En quina barraca miserable vivies, que no vas veure venir això quan érem al bosquet?",
+      "count": 6
+    },
+    "grudge": {
+      "text": "The city has more important concerns than a bunch of ne'er-do-wells with a grudge.",
+      "sourceId": "h3ed83938gc3cfg4bd8gbf90g382bf783120c",
+      "catalan": "La ciutat té preocupacions més importants que una colla de brètols rancorosos.",
+      "count": 14
+    },
+    "truce": {
+      "text": "We may have reached a truce, but that does not mean my allusive blade will grow dull.",
+      "sourceId": "h4d6c5669g3eb2g43e6ga94cgc13d1ff08fda",
+      "catalan": "Potser hem arribat a una treva, però això no vol dir que la meva fulla d'insinuacions perdi el tall.",
+      "count": 5
+    },
+    "bide": {
+      "text": "So I retreated to the sewers to hide, bide my time, and enjoy all the rats one can eat.",
+      "sourceId": "hec6ee36bgd15bg4e69gaf45gddc50642d6f0",
+      "catalan": "Així que em vaig retirar a les clavegueres per amagar-me, esperar el moment oportú i gaudir de totes les rates que es puguin menjar.",
+      "count": 6
+    },
+    "brood": {
+      "text": "The spider matriarch calls on her brood, causing her nearby eggs to hatch.",
+      "sourceId": "h75d48227g7b85g4db4gb96bgb050e9dae918",
+      "catalan": "La matriarca de les aranyes crida la seva cria i fa que descloguin els ous que té a prop.",
+      "count": 9
+    },
+    "hireling": {
+      "text": "Though spoken with a different voice, you recognise the eloquent drawl of Withers, the wraith that summoned the hireling.",
+      "sourceId": "h9272cd0dg7608g497agb3c4g9686bdd329db",
+      "catalan": "Tot i que parla amb una veu diferent, hi reconeixes la cadència lenta i eloqüent d'en Withers, l'espectre que va invocar el mercenari a sou.",
+      "count": 23
+    },
+    "breastplate": {
+      "text": "This heavy, resilient breastplate is reinforced by a padded gambeson to protect soldiers from hip to neck.",
+      "sourceId": "hc4909fd3gbe54g425dg8aacg960b22147ae0",
+      "catalan": "Aquesta cuirassa pesant i resistent està reforçada amb un gambesó encoixinat per protegir els soldats del maluc fins al coll.",
+      "count": 5
+    },
+    "make-haste": {
+      "text": "Make haste, I have a very busy day of very demanding clientele ahead.",
+      "sourceId": "ha2f92afcg7029g4cdbgb2a2g81bb67a7af47",
+      "catalan": "Afanya't, m'espera un dia molt atrafegat amb una clientela molt exigent.",
+      "count": 5
+    },
+    "scabbard": {
+      "text": "It was encompassing, sheathing me as if I were a sword and it my scabbard.",
+      "sourceId": "h58eaf151g29e8g4ff8g885eg23dd19ca42de",
+      "catalan": "M'envoltava i em recobria com si jo fos una espasa i allò fos la meva beina.",
+      "count": 4
+    },
+    "atonement": {
+      "text": "When a fallen paladin dies without atonement, it can be brought back from the grave as something entirely different - entirely evil.",
+      "sourceId": "h5ac67acfgef06g47f8ga1c3gefdb7037eb22",
+      "catalan": "Quan un paladí caigut mor sense haver expiat les seves faltes, pot tornar de la tomba convertit en una cosa completament diferent: completament maligna.",
+      "count": 4
+    },
+    "gruel": {
+      "text": "A simple bowl of gruel for me.",
+      "sourceId": "h5cd58f33gf8ecg4441gbdd5ge0dede345013",
+      "catalan": "Per a mi, un simple bol de farinetes aigualides.",
+      "count": 4
+    },
+    "keep": {
+      "sourceId": "h99ed7f6fg53ebg497egbd18g309a06446e9c",
+      "text": "These four walls have witnessed greater alchemical triumphs than the keep of Urngath Dorrund!",
+      "catalan": "Aquestes quatre parets han presenciat triomfs alquímics més grans que la fortalesa d'Urngath Dorrund!",
+      "count": 8
+    },
+    "fetter": {
+      "text": "Fettered by the taxing chains of fear, A stalwart soul must ever persevere.",
+      "sourceId": "h5e99b031gfa71g4822g9e05g080ca85a9de3",
+      "catalan": "Encadenada pels grillons feixucs de la por, una ànima ferma ha de perseverar sempre.",
+      "count": 1
+    },
+    "longbow": {
+      "text": "The weapon you conjure can be a shortbow, longbow, light crossbow, or heavy crossbow.",
+      "sourceId": "hdfbc5250gbf88g4b3agba82gcf06a6cceb79",
+      "catalan": "L'arma que fas aparèixer pot ser un arc curt, un arc llarg, una ballesta lleugera o una ballesta pesant.",
+      "count": 6
+    },
+    "kindred": {
+      "text": "You may find some kindred spirits among the duergar, but alliances will be rare - and friendships, even rarer.",
+      "sourceId": "h7ee23b97g2b19g4e4fgb263g0959080cba1e",
+      "catalan": "Potser trobaràs algunes ànimes afins entre els duergar, però les aliances seran escasses, i les amistats encara més.",
+      "count": 6
+    },
+    "waylay": {
+      "text": "One of those Gondian scrapheaps waylaid us at the gates is all.",
+      "sourceId": "h6527c643g0fa8g40b6ga42ag3cea035914ab",
+      "catalan": "Una d'aquelles ferralles gondianes ens ha assaltat a les portes, això és tot.",
+      "count": 5
+    },
+    "pommel": {
+      "text": "Faded but still legible, the mark of a Kara-Turan forgemaster adorns the pommel of this exquisite sword.",
+      "sourceId": "h72a4e79cgfa9ag47b1g9464g402307909c3a",
+      "catalan": "Desdibuixada però encara llegible, la marca d'un mestre forjador de Kara-Tur adorna el pom de l'empunyadura d'aquesta espasa exquisida.",
+      "count": 1
+    },
+    "hallowed": {
+      "text": "The Blushing Mermaid is also frequented by the criminal scum haunting this very gazette's hallowed pages.",
+      "sourceId": "hb96f54abg5b77g42a6g8955g8f62ce06101e",
+      "catalan": "La Sirena Ruboritzada també és freqüentada per l'escòria criminal que ronda per les pàgines sagrades d'aquesta mateixa gaseta.",
+      "count": 4
+    },
+    "buckler": {
+      "text": "Elegant motifs of warding - shields, targes, bucklers, and buffers - are faintly impressed into the metal round of the ring.",
+      "sourceId": "h7c174fd4g9daeg4b3dg8f88g593f43338d47",
+      "catalan": "Uns elegants motius de protecció —escuts, targes, broquers i defenses— estan lleument gravats al disc metàl·lic de l'anell.",
+      "count": 1
+    },
+    "ere": {
+      "sourceId": "h7e871753gb271g41f5g8c00gd120e5158b4e",
+      "text": "We shall speaketh at the most promising hour, but never ere.",
+      "catalan": "Parlarem a l'hora més propícia, però mai abans.",
+      "count": 1
+    },
+    "tidings": {
+      "text": "Whatever she had to say to him has gone unspoken, whether good tidings or ill.",
+      "sourceId": "he4b06b5cg6030g47d2gb4b7gb0e066ec7ca6",
+      "catalan": "Allò que li havia de dir ha quedat sense pronunciar, fossin bones noves o dolentes.",
+      "count": 7
+    },
+    "wight": {
+      "text": "The imperious elf's got the red eyes and pale skin of a wight.",
+      "sourceId": "h96e8b3adg2894g4a2fga7a1g14abbcf14c28",
+      "catalan": "L'elf altiu té els ulls vermells i la pell pàl·lida d'un mort vivent maligne.",
+      "count": 2
+    },
+    "steward": {
+      "text": "Halsin: nature's gentle steward - and furious defender.",
+      "sourceId": "he6428db4g7c38g4b8eg875ege310bc38fe31",
+      "catalan": "Halsin: el curador amable de la natura i el seu defensor ferotge.",
+      "count": 2
+    },
+    "parry": {
+      "sourceId": "hc43c8e33g9c64g4e03ga128g0f56b3928bcc",
+      "text": "Thrust, then parry. Or was it parry, then thrust?",
+      "catalan": "Clava una estocada i després para el cop. O era parar el cop i després clavar l'estocada?",
+      "count": 2
+    },
+    "barrow": {
+      "sourceId": "hde6714adg3ecbg4890gafd1g4a2ae847bb20",
+      "text": "Gods-damned barrow broke but I'm nearly out.",
+      "catalan": "El maleït carretó s'ha trencat, però ja soc gairebé fora.",
+      "count": 2
+    },
+    "levy": {
+      "text": "Baldurians responded positively to security for themselves, especially if it could be paid for by levies on non-citizens.",
+      "sourceId": "he60a18c0gef13g4bd8gbd3agc0b8d535b4e7",
+      "catalan": "Els habitants de Baldur's Gate van rebre bé les mesures de seguretat per a ells, sobretot si es podien pagar amb tributs als qui no eren ciutadans.",
+      "count": 1
+    },
+    "aught": {
+      "text": "It is anything but, my friend, because none can make a berserker do aught they do not wish, no more than Minsc can bathe Boo when he's feeling wrigglesome.",
+      "sourceId": "he9262393g289cg4784g8802gcd26dcad400a",
+      "catalan": "Tot al contrari, amic meu, perquè ningú no pot obligar un berserc a fer res que no vulgui, igual que en Minsc no pot banyar en Boo quan no para de bellugar-se.",
+      "count": 1
+    },
+    "rampart": {
+      "text": "There are some ghouls nesting on the upper ramparts.",
+      "sourceId": "hfeabe6e6g8890g4cfag9c4fg40bd06b3cf10",
+      "catalan": "Hi ha uns quants carronyaires no morts que nien a la part alta de les muralles.",
+      "count": 1
+    }
+  }
+}

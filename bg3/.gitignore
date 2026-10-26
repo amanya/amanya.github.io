@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+dist/
+# User-supplied game files and browser backups are not app source.
+data/english.xml
+wayfarer-backup-*.json
