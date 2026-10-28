@@ -1,0 +1,623 @@
+[
+  {
+    "card": {
+      "word": "scoundrel",
+      "category": "Old speech & dealings",
+      "catalan": "brètol; pocavergonya",
+      "meaning": "A dishonest or dishonourable person.",
+      "example": "That scoundrel sold the same horse three times.",
+      "exampleCa": "Aquell brètol va vendre el mateix cavall tres vegades.",
+      "forms": [
+        "scoundrel",
+        "scoundrels"
+      ],
+      "id": "bg1-scoundrel"
+    },
+    "context": {
+      "text": "Even such a scoundrel as this is not deserving of murder.",
+      "catalan": "Fins i tot un brètol com aquest no mereix que el matin.",
+      "sourceId": "8449",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "wretched",
+      "category": "Dark words & deeds",
+      "catalan": "miserable; desgraciat",
+      "meaning": "In a very bad or unhappy condition.",
+      "example": "The wretched prisoners had not eaten for days.",
+      "exampleCa": "Els desgraciats presoners feia dies que no menjaven.",
+      "forms": [
+        "wretched",
+        "wretchedly"
+      ],
+      "id": "bg1-wretched"
+    },
+    "context": {
+      "text": "What could you ever hope to learn from a wretched fool like me?",
+      "catalan": "Què podries esperar aprendre mai d’un ximple miserable com jo?",
+      "sourceId": "14894",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "thou",
+      "category": "Old speech & dealings",
+      "catalan": "tu (forma arcaica)",
+      "meaning": "An archaic singular subject pronoun meaning you.",
+      "example": "Thou hast broken the oath of this order.",
+      "exampleCa": "Has trencat el jurament d'aquest orde.",
+      "forms": [
+        "thou"
+      ],
+      "id": "bg1-thou"
+    },
+    "context": {
+      "text": "I have no doubt thou shalt make an interesting traveling companion.",
+      "catalan": "No tinc cap dubte que seràs un company de viatge interessant.",
+      "sourceId": "648",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "thee",
+      "category": "Old speech & dealings",
+      "catalan": "et; a tu (forma arcaica)",
+      "meaning": "An archaic singular object pronoun meaning you.",
+      "example": "I give thee my word that I shall return.",
+      "exampleCa": "Et dono la meva paraula que tornaré.",
+      "forms": [
+        "thee"
+      ],
+      "id": "bg1-thee"
+    },
+    "context": {
+      "text": "'Twas beauty in that, but I cannot be confined with thee.",
+      "catalan": "Hi havia bellesa en això, però no puc quedar-me tancat amb tu.",
+      "sourceId": "2685",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "foe",
+      "category": "Steel & survival",
+      "catalan": "enemic; adversari",
+      "meaning": "An enemy, especially in literary or fantasy language.",
+      "example": "Even a wounded foe can still be dangerous.",
+      "exampleCa": "Fins i tot un enemic ferit pot continuar sent perillós.",
+      "forms": [
+        "foe",
+        "foes"
+      ],
+      "id": "bg1-foe"
+    },
+    "context": {
+      "text": "What kind of simpleton attacks a foe he does not know!",
+      "catalan": "Quina mena de ximple ataca un enemic que no coneix!",
+      "sourceId": "6153",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "heed",
+      "category": "Old speech & dealings",
+      "catalan": "fer cas de; atenció",
+      "meaning": "To pay close attention to advice or a warning.",
+      "example": "Heed my warning and stay away from the well.",
+      "exampleCa": "Fes cas del meu advertiment i allunya't del pou.",
+      "forms": [
+        "heed",
+        "heeds",
+        "heeded",
+        "heeding"
+      ],
+      "id": "bg1-heed"
+    },
+    "context": {
+      "text": "I will heed your warnings, but I must still go on.",
+      "catalan": "Faré cas dels teus advertiments, però tot i així he de continuar.",
+      "sourceId": "24069",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "lest",
+      "category": "Old speech & dealings",
+      "catalan": "no fos cas que; per por que",
+      "meaning": "In order to prevent something undesirable from happening.",
+      "example": "Speak softly, lest you wake the guards.",
+      "exampleCa": "Parla fluix, no fos cas que despertessis els guàrdies.",
+      "forms": [
+        "lest"
+      ],
+      "id": "bg1-lest"
+    },
+    "context": {
+      "text": "Leave now, lest you earn the same fate that they have!",
+      "catalan": "Marxeu ara, no fos cas que patiu la mateixa sort que ells!",
+      "sourceId": "1825",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "betray",
+      "category": "Dark words & deeds",
+      "catalan": "trair",
+      "meaning": "To break someone's trust or hand them to an enemy.",
+      "example": "She would never betray the people who sheltered her.",
+      "exampleCa": "No trairia mai la gent que l'havia acollida.",
+      "forms": [
+        "betray",
+        "betrays",
+        "betrayed",
+        "betrayal"
+      ],
+      "id": "bg1-betray"
+    },
+    "context": {
+      "text": "Why the hell did you betray him in the first place?",
+      "catalan": "Per què dimonis el vas trair, per començar?",
+      "sourceId": "1694",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "grudge",
+      "category": "Dark words & deeds",
+      "catalan": "rancúnia",
+      "meaning": "A lasting feeling of resentment about a past wrong.",
+      "example": "Dwarves in this story could hold a grudge for centuries.",
+      "exampleCa": "Els nans d'aquesta història podien guardar rancúnia durant segles.",
+      "forms": [
+        "grudge",
+        "grudges"
+      ],
+      "id": "bg1-grudge"
+    },
+    "context": {
+      "text": "I bear all of your type a grudge.",
+      "catalan": "Guardo rancúnia a tots els de la teva mena.",
+      "sourceId": "7883",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "ambush",
+      "category": "Steel & survival",
+      "catalan": "emboscada",
+      "meaning": "A surprise attack from a concealed position.",
+      "example": "The overturned cart was the perfect place for an ambush.",
+      "exampleCa": "El carro bolcat era el lloc perfecte per a una emboscada.",
+      "forms": [
+        "ambush",
+        "ambushes",
+        "ambushed",
+        "ambushing"
+      ],
+      "id": "bg1-ambush"
+    },
+    "context": {
+      "text": "The woman tricked me into an ambush with her sorry tale!",
+      "catalan": "La dona em va enganyar amb la seva història llastimosa i em va fer caure en una emboscada!",
+      "sourceId": "23545",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "plight",
+      "category": "Dark words & deeds",
+      "catalan": "situació penosa; tràngol",
+      "meaning": "A difficult or dangerous situation someone is in.",
+      "example": "The refugees begged us to understand their plight.",
+      "exampleCa": "Els refugiats ens suplicaven que entenguéssim la seva situació penosa.",
+      "forms": [
+        "plight"
+      ],
+      "id": "bg1-plight"
+    },
+    "context": {
+      "text": "We met one of your fellows and she told us of your plight.",
+      "catalan": "Vam conèixer una de les teves companyes i ens va explicar el vostre tràngol.",
+      "sourceId": "22748",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "knave",
+      "category": "Old speech & dealings",
+      "catalan": "bergant; malfactor",
+      "meaning": "An old-fashioned word for a dishonest man.",
+      "example": "You are a knave if you think I will pay twice.",
+      "exampleCa": "Ets un bergant si et penses que pagaré dues vegades.",
+      "forms": [
+        "knave",
+        "knaves"
+      ],
+      "id": "bg1-knave"
+    },
+    "context": {
+      "text": "You'll learn respect, ye cocky knave!",
+      "catalan": "Aprendràs a respectar, bergant arrogant!",
+      "sourceId": "1896",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "beseech",
+      "category": "Old speech & dealings",
+      "catalan": "suplicar; implorar",
+      "meaning": "To ask urgently and earnestly.",
+      "example": "I beseech you to spare the villagers.",
+      "exampleCa": "Et suplico que perdonis la vida als vilatans.",
+      "forms": [
+        "beseech",
+        "beseeches",
+        "beseeched",
+        "besought"
+      ],
+      "id": "bg1-beseech"
+    },
+    "context": {
+      "text": "I beseech you, cease your attack!",
+      "catalan": "Us suplico que atureu el vostre atac!",
+      "sourceId": "2481",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "forsake",
+      "category": "Dark words & deeds",
+      "catalan": "abandonar; renunciar a",
+      "meaning": "To leave someone behind or give up a commitment.",
+      "example": "I will not forsake you in your hour of need.",
+      "exampleCa": "No t'abandonaré quan més em necessitis.",
+      "forms": [
+        "forsake",
+        "forsakes",
+        "forsook",
+        "forsaken",
+        "forsaking"
+      ],
+      "id": "bg1-forsake"
+    },
+    "context": {
+      "text": "Many will seek the power you forsake!",
+      "catalan": "Molts buscaran el poder al qual renuncies!",
+      "sourceId": "9255",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "treachery",
+      "category": "Dark words & deeds",
+      "catalan": "traïció; deslleialtat",
+      "meaning": "Betrayal of someone's trust.",
+      "example": "The captain paid dearly for his ally's treachery.",
+      "exampleCa": "El capità va pagar molt cara la traïció del seu aliat.",
+      "forms": [
+        "treachery",
+        "treacherous"
+      ],
+      "id": "bg1-treachery"
+    },
+    "context": {
+      "text": "That is good, but you must remain alert to any treachery.",
+      "catalan": "Això està bé, però has de mantenir-te alerta davant de qualsevol traïció.",
+      "sourceId": "30366",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "woe",
+      "category": "Dark words & deeds",
+      "catalan": "dissort; aflicció",
+      "meaning": "Great sorrow or trouble, common in literary speech.",
+      "example": "Woe to anyone who breaks the ancient seal.",
+      "exampleCa": "Ai de qui trenqui l'antic segell.",
+      "forms": [
+        "woe",
+        "woes",
+        "woeful"
+      ],
+      "id": "bg1-woe"
+    },
+    "context": {
+      "text": "Woe to the fool who gets in the way of my fun tonight!",
+      "catalan": "Ai del ximple que s’interposi en la meva diversió aquesta nit!",
+      "sourceId": "8224",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "beguile",
+      "category": "Dark words & deeds",
+      "catalan": "entabanar; captivar amb enganys",
+      "meaning": "To charm or deceive someone into doing something.",
+      "example": "The stranger tried to beguile us with promises of gold.",
+      "exampleCa": "El desconegut ens intentava entabanar amb promeses d'or.",
+      "forms": [
+        "beguile",
+        "beguiles",
+        "beguiled",
+        "beguiling"
+      ],
+      "id": "bg1-beguile"
+    },
+    "context": {
+      "text": "You can't beguile me with polite words, Red Wizard.",
+      "catalan": "No em pots entabanar amb paraules corteses, Mag Roig.",
+      "sourceId": "30295",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "slay",
+      "category": "Steel & survival",
+      "catalan": "matar; abatre",
+      "meaning": "A literary verb meaning to kill.",
+      "example": "They vowed to slay the beast before winter.",
+      "exampleCa": "Van jurar matar la bèstia abans de l'hivern.",
+      "forms": [
+        "slay",
+        "slays",
+        "slew",
+        "slain",
+        "slaying"
+      ],
+      "id": "bg1-slay"
+    },
+    "context": {
+      "text": "He wanted me to slay a witch named Dynaheir, but I declined.",
+      "catalan": "Volia que matés una bruixa anomenada Dynaheir, però m’hi vaig negar.",
+      "sourceId": "27032",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "lair",
+      "category": "Creatures & wilds",
+      "catalan": "cau; amagatall",
+      "meaning": "The den or dwelling of a dangerous creature.",
+      "example": "We found the beast's lair behind the waterfall.",
+      "exampleCa": "Vam trobar el cau de la bèstia darrere la cascada.",
+      "forms": [
+        "lair",
+        "lairs"
+      ],
+      "id": "bg1-lair"
+    },
+    "context": {
+      "text": "She asks that we destroy the wolf beasts in their lair.",
+      "catalan": "Ens demana que destruïm les bèsties llop al seu cau.",
+      "sourceId": "21868",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "quiver",
+      "category": "Steel & survival",
+      "catalan": "buirac; tremolar",
+      "meaning": "A container for arrows; as a verb, to tremble.",
+      "example": "She reached for the last arrow in her quiver.",
+      "exampleCa": "Va allargar la mà cap a l'última fletxa del buirac.",
+      "forms": [
+        "quiver",
+        "quivers",
+        "quivered",
+        "quivering"
+      ],
+      "id": "bg1-quiver"
+    },
+    "context": {
+      "text": "Usually made of leather, a quiver can hold anywhere from 20 to 40 arrows or crossbow bolts.",
+      "catalan": "Normalment fet de cuir, un buirac pot contenir entre 20 i 40 fletxes o cairons de ballesta.",
+      "sourceId": "30731",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "behold",
+      "category": "Old speech & dealings",
+      "catalan": "mira; contempla",
+      "meaning": "An old-fashioned command or verb meaning to look at.",
+      "example": "Behold the crown of the fallen king.",
+      "exampleCa": "Contempla la corona del rei caigut.",
+      "forms": [
+        "behold",
+        "beholds",
+        "beheld"
+      ],
+      "id": "bg1-behold"
+    },
+    "context": {
+      "text": "Behold the mystical marvel that is my grandfather's flail.",
+      "catalan": "Contempla la meravella mística que és el flagell d’armes del meu avi.",
+      "sourceId": "1144",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "craven",
+      "category": "Old speech & dealings",
+      "catalan": "covard; mesell",
+      "meaning": "A very cowardly person, or behaving without courage.",
+      "example": "The craven guard fled before the fighting began.",
+      "exampleCa": "El guàrdia covard va fugir abans que comencés la lluita.",
+      "forms": [
+        "craven",
+        "cravens"
+      ],
+      "id": "bg1-craven"
+    },
+    "context": {
+      "text": "You are no blood of mine, you foot-licking craven!",
+      "catalan": "No ets de la meva sang, covard llepaculs!",
+      "sourceId": "29710",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "plunder",
+      "category": "Steel & survival",
+      "catalan": "saquejar; botí",
+      "meaning": "To steal goods by force, especially during war.",
+      "example": "The raiders returned to plunder the village.",
+      "exampleCa": "Els assaltants van tornar per saquejar el poble.",
+      "forms": [
+        "plunder",
+        "plunders",
+        "plundered",
+        "plundering"
+      ],
+      "id": "bg1-plunder"
+    },
+    "context": {
+      "text": "You will spy the road while Rededge an' I plunder within.",
+      "catalan": "Tu vigilaràs el camí mentre en Rededge i jo saquegem a dins.",
+      "sourceId": "2900",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "nary",
+      "category": "Old speech & dealings",
+      "catalan": "ni un; cap",
+      "meaning": "An old-fashioned word meaning not one or no.",
+      "example": "Nary an eve goes by without us losing another hand to the night.",
+      "exampleCa": "No passa ni un vespre sense que perdem un altre treballador a mans de la nit.",
+      "forms": [
+        "nary"
+      ],
+      "id": "bg1-nary"
+    },
+    "context": {
+      "text": "Nary an eve goes by without us losing another hand to the night.",
+      "catalan": "No passa ni un vespre sense que perdem un altre treballador a mans de la nit.",
+      "sourceId": "8545",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "hast",
+      "category": "Old speech & dealings",
+      "catalan": "has; tens (arcaic)",
+      "meaning": "An archaic form of have used with thou.",
+      "example": "Hast thou come to collect the inheritance from your father?",
+      "exampleCa": "Has vingut a recollir l’herència del teu pare?",
+      "forms": [
+        "hast"
+      ],
+      "id": "bg1-hast"
+    },
+    "context": {
+      "text": "Hast thou come to collect the inheritance from your father?",
+      "catalan": "Has vingut a recollir l’herència del teu pare?",
+      "sourceId": "9",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "shalt",
+      "category": "Old speech & dealings",
+      "catalan": "faràs; hauràs de (arcaic)",
+      "meaning": "An archaic form of shall used with thou.",
+      "example": "I have no doubt thou shalt make an interesting traveling companion.",
+      "exampleCa": "No tinc cap dubte que seràs un company de viatge interessant.",
+      "forms": [
+        "shalt"
+      ],
+      "id": "bg1-shalt"
+    },
+    "context": {
+      "text": "I have no doubt thou shalt make an interesting traveling companion.",
+      "catalan": "No tinc cap dubte que seràs un company de viatge interessant.",
+      "sourceId": "648",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "blackguard",
+      "category": "Old speech & dealings",
+      "catalan": "malvat; bergant",
+      "meaning": "An old-fashioned insult for a dishonest or contemptible person.",
+      "example": "Unlike the others, I know just what a blackguard I face.",
+      "exampleCa": "A diferència dels altres, sé perfectament a quin malvat m’enfronto.",
+      "forms": [
+        "blackguard"
+      ],
+      "id": "bg1-blackguard"
+    },
+    "context": {
+      "text": "Unlike the others, I know just what a blackguard I face.",
+      "catalan": "A diferència dels altres, sé perfectament a quin malvat m’enfronto.",
+      "sourceId": "28574",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "deign",
+      "category": "Old speech & dealings",
+      "catalan": "dignar-se",
+      "meaning": "To consider something worthy of doing, often reluctantly.",
+      "example": "But no, they would not deign to be so human.",
+      "exampleCa": "Però no, no es dignarien a ser tan humans.",
+      "forms": [
+        "deign"
+      ],
+      "id": "bg1-deign"
+    },
+    "context": {
+      "text": "But no, they would not deign to be so human.",
+      "catalan": "Però no, no es dignarien a ser tan humans.",
+      "sourceId": "20199",
+      "count": 1
+    }
+  },
+  {
+    "card": {
+      "word": "nay",
+      "category": "Old speech & dealings",
+      "catalan": "no (arcaic)",
+      "meaning": "An old-fashioned or literary word meaning no.",
+      "example": "Nay, you not only seek them, you expect them!",
+      "exampleCa": "No, no només els busques, sinó que els esperes!",
+      "forms": [
+        "nay"
+      ],
+      "id": "bg1-nay"
+    },
+    "context": {
+      "text": "Nay, you not only seek them, you expect them!",
+      "catalan": "No, no només els busques, sinó que els esperes!",
+      "sourceId": "18388",
+      "count": 1
+    }
+  }
+]

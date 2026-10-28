@@ -10,6 +10,7 @@ import tempfile
 import unittest
 import xml.etree.ElementTree as ET
 import hashlib
+import struct
 
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
@@ -56,9 +57,28 @@ class ImportTests(unittest.TestCase):
     def test_standalone_has_embedded_deck_and_no_external_assets(self):
         html=(ROOT/'index.html').read_text()
         payload=re.search(r'<script id="deck-data" type="application/json">(.*?)</script>',html,re.S)[1]
-        self.assertEqual(len(json.loads(payload)['cards']),len(load_cards()))
+        bg1=json.loads((ROOT/'data/bg1_curated.json').read_text())
+        self.assertEqual(len(json.loads(payload)['cards']),len(load_cards())+len(bg1))
         self.assertNotRegex(html,r'<(?:script|link|img)[^>]+(?:src|href)="https?://')
         self.assertNotIn('/* APP_JS */',html)
+
+    @unittest.skipUnless((ROOT/'data/bg1-dialog.tlk').exists(),'BG1 corpus not available')
+    def test_bg1_contexts_match_original_tlk_entries(self):
+        raw=(ROOT/'data/bg1-dialog.tlk').read_bytes()
+        self.assertEqual(raw[:8],b'TLK V1  ')
+        count,base=struct.unpack_from('<II',raw,10)
+        curated=json.loads((ROOT/'data/bg1_curated.json').read_text())
+        for item in curated:
+            card,ctx=item['card'],item['context']
+            index=int(ctx['sourceId'])
+            self.assertLess(index,count)
+            offset,length=struct.unpack_from('<II',raw,18+index*26+18)
+            self.assertLessEqual(base+offset+length,len(raw))
+            text=raw[base+offset:base+offset+length].decode('utf8')
+            self.assertIn(ctx['text'],text,card['word'])
+            self.assertTrue(ctx['catalan'].strip())
+            pattern=r'\b(?:'+'|'.join(re.escape(form) for form in card['forms'])+r')\b'
+            self.assertRegex(ctx['text'].lower(),pattern)
 
     def test_command_copies_exact_bytes_and_builds_matched_deck(self):
         with tempfile.TemporaryDirectory() as folder:

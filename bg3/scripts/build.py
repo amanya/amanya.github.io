@@ -28,7 +28,12 @@ def build():
     cards = load_cards()
     source_path = ROOT / 'data/contexts.json'
     imported = json.loads(source_path.read_text()) if source_path.exists() else {}
-    payload = {'cards': cards, 'contexts': imported.get('contexts', {}), 'corpus': imported.get('corpus')}
+    bg1_path = ROOT / 'data/bg1_curated.json'
+    bg1 = json.loads(bg1_path.read_text()) if bg1_path.exists() else []
+    cards.extend(item['card'] for item in bg1)
+    bg1_contexts = {item['card']['id']: item['context'] for item in bg1}
+    contexts = {**imported.get('contexts', {}), **bg1_contexts}
+    payload = {'cards': cards, 'contexts': contexts, 'bg1Contexts': bg1_contexts, 'corpus': imported.get('corpus')}
     if payload['corpus']:
         payload['corpus']['deckHash'] = hashlib.sha256(json.dumps(payload['contexts'], sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     html = (ROOT / 'template.html').read_text()

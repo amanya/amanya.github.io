@@ -4,7 +4,7 @@ An English → Catalan fantasy vocabulary flashcard app for a B2 reader. Open **
 
 ## Source status
 
-The original XML is now available at `data/english.xml` and has been analysed: **232,878 localisation entries, 173 matched vocabulary cards**. The app opens with genuine game contexts and Catalan translations of all 173 selected sentences. The contexts have been reviewed for the intended word meaning and retain their exact XML `contentuid`. Catalan translations are original explanatory translations, not official localisation.
+The converted BG3 XML is available at `data/english.xml`: **232,878 localisation entries, 173 matched vocabulary cards**. The app also includes **29 BG1 cards**, selected from the 34,000 strings in the installed Enhanced Edition's English `data/bg1-dialog.tlk`. Both decks have game contexts and Catalan sentence translations. BG3 entries retain their XML `contentuid`; BG1 entries retain their zero-based TLK string reference. Translations are explanatory, not official localisation.
 
 To regenerate the source-based deck, run:
 
@@ -38,6 +38,7 @@ Automatic context matching chooses short sentences, skips placeholders and many 
 
 - `data/vocabulary.tsv`: editable glossary, examples, translations, and word forms.
 - `data/curated_contexts.json`: reviewed source sentences and Catalan translations, keyed by vocabulary ID.
+- `data/bg1_curated.json`: reviewed BG1 cards, TLK string references, and Catalan translations.
 - `data/contexts.json`: generated matched deck and source metadata.
 - `template.html`, `app.css`, `core.js`, `app.js`: app sources.
 - `scripts/build.py`: builds the standalone `index.html` using only Python's standard library.
